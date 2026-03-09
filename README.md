@@ -224,4 +224,7 @@ git push -u origin main
 
 ---
 
+
 Made with ❤️ | MIT License
+
+<img width="1907" height="915" alt="image" src="https://github.com/user-attachments/assets/d433e4c8-9c2b-4238-855e-d48292af32c5" />
